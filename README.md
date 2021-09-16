@@ -12,10 +12,10 @@ P.S. : Если Hardhat  не запускается , то инсталиров
 npm install --save-dev "@nomiclabs/hardhat-ethers@^2.0.0" "ethereum-waffle@^3.2.0"
 *************************
 создать файлы :
- .secret
- NFT.sol
- NFTMarket.sol
- .infuraid
+ .secret ;
+ NFT.sol ;
+ NFTMarket.sol ;
+ .infuraid ;
  ******************
  Запустить в CL:
  ******************
