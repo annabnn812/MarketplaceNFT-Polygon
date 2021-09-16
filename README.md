@@ -44,11 +44,18 @@ npx hardhat node
 редактировались файлы :
 
  styles/globals.css
+ 
  hardhat.config.js
+ 
  test/sample-test.js
+ 
  pages/_app.js
+ 
  pages/index.js
+ 
  pages/create-item.js
+ 
  pages/my-assets.js
+ 
  pages/creator-dashboard.js
 
